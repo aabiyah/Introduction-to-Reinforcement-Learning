@@ -60,3 +60,5 @@ Through repeated play and feedback, the mechanical computer improves its game. I
 > This way of playing the game punishes the computer for losing by taking away the last bead that was thrown out in the game the computer lost. Another way of doing this is by rewarding the computer for every win by adding another bead of the same color that was last thrown out of the matchbox of the winning game, thus increasing the probability of it being thrown out again in the next game.
 
 To learn more about Hexapawn, you can find the original article written by AI researcher Martin Gardner here: “How to build a game-learning machine and then teach it to play and win” by Martin Gardner, Scientific American: http://cs.williams.edu/~freund/cs136-073/GardnerHexapawn.pdf .
+
+Video explanation: https://www.youtube.com/watch?time_continue=938&v=eSc_Hi9LZeg
