@@ -52,10 +52,10 @@ SAC: Useful when leveraging historical data for potentially more data-efficient 
 Both PPO and SAC have their strengths and weaknesses. The choice of algorithm depends on specific needs and circumstances. Experimentation and tuning are key to finding the most effective approach for your particular scenario in AWS DeepRacer or other reinforcement learning applications.
 
 Reference videos: 
-https://www.youtube.com/watch?v=wtRYcwFeUks
-https://www.youtube.com/watch?v=GtGXORN7Ju8
-https://www.youtube.com/watch?v=YjSD1el5AQ0
-https://www.youtube.com/watch?v=gKRtfO-r8NI
+1. https://www.youtube.com/watch?v=wtRYcwFeUks
+2. https://www.youtube.com/watch?v=GtGXORN7Ju8
+3. https://www.youtube.com/watch?v=YjSD1el5AQ0
+4. https://www.youtube.com/watch?v=gKRtfO-r8NI
 
 # Reward Functions
 
@@ -94,10 +94,10 @@ https://www.youtube.com/watch?v=gKRtfO-r8NI
 - Through experimentation and iteration, you can craft a reward function that optimally guides your agent to achieve its goals on the track.
 
 ### Reference Videos
-https://www.youtube.com/watch?v=ANIRYsZZ4XI
-https://www.youtube.com/watch?v=pov0afxAvlo
-https://www.youtube.com/watch?v=IVZlh_PPHw0
-https://www.youtube.com/watch?v=CDUvW0YVqCc
+1. https://www.youtube.com/watch?v=ANIRYsZZ4XI
+2. https://www.youtube.com/watch?v=pov0afxAvlo
+3. https://www.youtube.com/watch?v=IVZlh_PPHw0
+4. https://www.youtube.com/watch?v=CDUvW0YVqCc
 
 # How the AWS DeepRacer device works
 
@@ -150,12 +150,12 @@ https://www.youtube.com/watch?v=CDUvW0YVqCc
 
 
 ### Reference Videos
-https://www.youtube.com/watch?v=jdIIzeNK5ak
-https://www.youtube.com/watch?v=hJNe6BM2p64
-https://www.youtube.com/watch?v=qdOnF5rVOZ0
-https://www.youtube.com/watch?v=ZiS6ERox0UI
-https://www.youtube.com/watch?v=wwgm3eA-vx8
-https://www.youtube.com/watch?v=06PUFbmrDpE
+1. https://www.youtube.com/watch?v=jdIIzeNK5ak
+2. https://www.youtube.com/watch?v=hJNe6BM2p64
+3. https://www.youtube.com/watch?v=qdOnF5rVOZ0
+4. https://www.youtube.com/watch?v=ZiS6ERox0UI
+5. https://www.youtube.com/watch?v=wwgm3eA-vx8
+6. https://www.youtube.com/watch?v=06PUFbmrDpE
 
 ### Pro Tips
 https://www.youtube.com/watch?v=KiPVdKESroU
